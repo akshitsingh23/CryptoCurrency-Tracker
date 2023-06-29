@@ -12,17 +12,14 @@ website
 - Customizable watchlist for tracking specific cryptocurrencies.
 - User-friendly and intuitive interface.
 
-## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/CryptoTracker.git`
-2. Install the required dependencies: `npm install`
-3. Start the application: `npm start`
+
 
 ## Technologies Used
 - React.js
 - JavaScript
 - CSS
 ## Contribution
-Contributions are welcome! If you want to contribute to this project, please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+Contributions are welcome..
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
